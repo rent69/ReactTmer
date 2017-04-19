@@ -7,7 +7,7 @@ var Navigation = () => {
       <div className="top-bar-left">
         <ul className="menu">
           <li className="menu-text">
-            React Timer App
+            React Timer/Countdown App
           </li>
           <li>
             <IndexLink to="/" activeClassName="active-link">Timer</IndexLink>
@@ -20,7 +20,7 @@ var Navigation = () => {
       <div className="top-bar-right">
         <ul className="menu">
           <li className="menu-text">
-            Created by <a href="http://www.mead.io" target="_blank">Rent Sidon</a>
+            Created by <a href="http://www.about.me/rentsidon" target="_blank">Rent Sidon</a>
           </li>
         </ul>
       </div>
